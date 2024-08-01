@@ -22,16 +22,16 @@
 3.  [Features](#features)
 4.  [Quick Start](#quick-start)
 5.  [Snippets (Code to Copy)](#snippets)
-6.  [Links](#links)
-7.  [More](#more)
+6. [Links](#links)
+7. [Contributing](#contributing)
+8. [Contact](#contact)
 
 
 
 ## <a name="introduction"> Introduction</a>
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Live-Docs is a real-time collaborative document editor application designed to streamline teamwork and enhance productivity. Built with cutting-edge technologies such as Next.js, Tailwind, Liveblocks, shadcn, and Lexical Editor, Live-Docs offers a seamless and intuitive user experience.Key features of Live-Docs include robust user authentication, the ability to add and manage collaborators, and automated notifications to keep everyone informed. With Live-Docs, you can collaborate in real-time, ensuring that your team stays connected and your documents stay up-to-date.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
 
 ## <a name="tech-stack"> Tech Stack</a>
@@ -80,8 +80,12 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
-cd collaborative-editor
+git clone https://github.com/JaivardhanPadhy/Live-Docs.git
+```
+
+**Navigate into the cloned repository**
+```bash
+cd Live-Docs
 ```
 
 **Installation**
@@ -118,7 +122,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="snippets">Snippets</a>
 
 <details>
 <summary><code>globals.css</code></summary>
@@ -1186,30 +1190,30 @@ export const Notifications = () => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
+## <a name="links">Links</a>
+- [My Modern Portfolio](https://github.com/JaivardhanPadhy/Modern-Portfolio)
+- [Saas Podcast Platform](https://github.com/JaivardhanPadhy/Saas-Podcast-Platform)
+- [Dashboard Application](https://github.com/JaivardhanPadhy/Dashboard)
+- [Video-Conferencing Website](https://github.com/JaivardhanPadhy/VideoConferencing-Website)
 
-- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
-- [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
 
-## <a name="more">🚀 More</a>
+## <a name="contributing"> Contributing</a>
+We welcome contributions to the LiveDocs - the realtime collborator doc editor! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Follow these steps to contribute:
 
-**Advance your skills with Next.js 14 Pro Course**
+1.Fork the repository.
+   - Create a new branch
+     ``` bash
+      (git checkout -b feature-branch)
+     ```
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+2.Make your changes.
+   - Commit your changes 
+       ```  bash
+             (git commit -m 'Add some feature')
+       ```
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
+3.Push to the branch (git push origin feature-branch).
+   - Open a pull request.
 
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
+## <a name="contact"> Contact</a>
+For any questions or inquiries, please contact me at theofficialjaivp@gmail.com.
